@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: 'Handmade Jewelry, Unique Jewelry | B Designs Jewelry bdesignsjewelry.com '
-datePublished: '2016-03-14T01:56:33.573Z'
-dateModified: '2016-03-14T01:56:05.715Z'
+description: "Handmade Jewelry, Unique Jewelry | B Designs Jewelry bdesignsjewelry.com Handmade Jewelry, Unique Jewelry Made To Order For All Occasions Handcrafted By Robert GaskillLIKE B Designs Jewelry's Facebook Page Here https://www.facebook.com/BDesignsJewelry Or Visit B Designs Jewelry By BD Etsy's Store Here https://www.etsy.com/shop/BDesignsJewelryByBD"
+datePublished: '2016-03-14T12:54:08.959Z'
+dateModified: '2016-03-14T03:00:08.974Z'
 title: 'Handmade Jewelry, Unique Jewelry | B Designs Jewelry'
 author: []
+sourcePath: _posts/2016-03-14-handmade-jewelry-unique-jewelry-or-b-designs-jewelry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-handmade-jewelry-unique-jewelry-or-b-designs-jewelry.md
-published: true
 url: handmade-jewelry-unique-jewelry-or-b-designs-jewelry/index.html
 _type: Article
 
